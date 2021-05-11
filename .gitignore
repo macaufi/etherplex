@@ -1,0 +1,27 @@
+/dist
+/node_modules
+/coverage
+/docs
+.history
+
+# Below are the dist files.
+_virtual
+/abis
+/queries
+/resolvers
+/services
+/utils
+/ContractCache.js
+/index.js
+/subscribers
+/types
+typeDefs.js
+/multicall
+index.js
+Call.js
+MulticallContract.js
+MulticallExecutor.js
+batch.js
+contract.js
+decodeCalls.js
+encodeCalls.js
