@@ -4,7 +4,6 @@
 .history
 
 # Below are the dist files.
-_virtual
 /abis
 /queries
 /resolvers
